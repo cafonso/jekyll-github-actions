@@ -12,3 +12,4 @@ Testing the timeago plugin on GitHub Pages
 
 - Original date - {{ date }}
 - With timeago filter - {{ date | timeago }}
+Bem! Bare bones!
